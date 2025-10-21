@@ -50,10 +50,6 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 **MSc Sound and Music Computing** — Aalborg University (AAU), Denmark
 - Erasmus exchange at NTNU Trondheim, Norway (extended for thesis)
-- Master's Thesis: Hybrid Virtual Analog Filter for EMS Synthi Emulation (2025)
-  - Combined physics-based modeling with neural network residual correction
-  - Achieved 92% indistinguishable from hardware in blind listening tests
-  - Published on [Overleaf](https://www.overleaf.com/read/rhntdfgmgdzx#3c1775)
 
 **Research Collaborations**:
 - NTNU Acoustics coursework (TTT4181, TTT4295)
