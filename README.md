@@ -28,67 +28,43 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 ## Featured Projects
 
-### Audio Signal Processing
+### Audio Signal Processing & Bioacoustics
 
 **[gaulosen-study](https://github.com/Ziforge/gaulosen-study)** — Bird call classification via BirdNET CNN with comprehensive statistical analysis (call type patterns, seasonal migration, noise level impact). 24 .md documentation files.
 
-**[NTNU-Acoustic_DSP_Assignment_1](https://github.com/Ziforge/NTNU-Acoustic_DSP_Assignment_1)** — Music box acoustic analysis pipeline with multi-method f0 consensus (SHS, YIN, cepstrum), HPSS denoising, MFCC extraction, and automatic tuning calibration.
+**[bird-net-batch-analysis](https://github.com/Ziforge/bird-net-batch-analysis)** — BirdNET batch bioacoustic analysis pipeline. Automated bird species detection with YIN f0 estimation, LPC formant analysis, and Audacity integration for ornithological research.
+
+**[praven-pro](https://github.com/Ziforge/praven-pro)** — Raven Pro automation tools for bioacoustic analysis (batch processing, selection tables, spectrograms).
 
 **[CollabLibrosaParty](https://github.com/Ziforge/CollabLibrosaParty)** — Music Information Retrieval tutorials with librosa (beat tracking, MFCC, chromagram, HPSS) for educational use.
 
-### Spatial Audio
-
-**[ntnu-itd-ild](https://github.com/Ziforge/ntnu-itd-ild)** — Binaural directional hearing synthesis via Woodworth ITD model and Brown-Duda ILD filters. Includes fractional delay filters and HRIR generation.
-
-**[Harman-Spatialisation](https://github.com/Ziforge/Harman-Spatialisation)** — HRTF-based spatial audio research in collaboration with Harman International. MATLAB implementation with perceptual listening tests.
-
 ### Physical Modeling Synthesis
-
-**[windgrain](https://github.com/Ziforge/windgrain)** — Hybrid physical modeling toolkit combining 2D wave equation (FDTD), digital waveguide meshes, Karplus-Strong, and spring-mass lattices. Implemented in MATLAB, Bela C++, and Faust.
 
 **[EKS](https://github.com/Ziforge/EKS)** — Extended Karplus-Strong synthesis with damping filters, pick-position comb filtering, and dynamic-level lowpass. Real-time Faust implementation.
 
-### Virtual Analog & Machine Learning
-
-**[MLEMSSynthi](https://github.com/Ziforge/MLEMSSynthi)** — Hybrid virtual analog + machine learning filter emulation for EMS Synthi diode-ladder. Combines physics-based modeling with WaveNet residual learning (240K parameters, 3.2 ms latency).
-
-**[EMSSYNTHI](https://github.com/Ziforge/EMSSYNTHI)** — EMS Synthi filter emulation using polynomial modeling, neural network LUT, and 32x oversampling for real-time performance.
-
-**[BelaSergeResEQ](https://github.com/Ziforge/BelaSergeResEQ)** — Serge Resonant Equalizer emulation on Bela platform. Biquad IIR filter with bilinear transform from component-level RC network derivations.
-
 ### Hardware Integration
 
-**[EmotiontoModular](https://github.com/Ziforge/EmotiontoModular)** — Real-time emotion recognition (MediaPipe FaceMesh + Mini-Xception CNN) controlling Eurorack modular synthesis via OSC and Expert Sleepers ES-9 CV outputs.
-
 **[CirklonSynthDefs](https://github.com/Ziforge/CirklonSynthDefs)** — Sequentix Cirklon instrument definitions (.cki) for hardware synthesizers. Comprehensive MIDI CC mappings with Euclidean rhythm integration.
-
-**[Physical-Tape](https://github.com/Ziforge/Physical-Tape)** — Analog tape emulation with wow/flutter modeling, saturation, and head bump equalization.
-
-### Educational Resources
-
-**[NTNU Acoustics Study](https://github.com/Ziforge/ntnu-acoustics-study)** — Complete TTT4181 Acoustics revision notebook with 11 plug-in calculators, 16 Python examples, LaTeX formula sheets, and concept maps.
-
-**[praven-pro](https://github.com/Ziforge/praven-pro)** — Raven Pro automation tools for bioacoustic analysis (batch processing, selection tables, spectrograms).
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**: Python, C++, MATLAB, Faust, JavaScript
+**Programming Languages**: C++, Python, VHDL/Verilog (FPGA), MATLAB, Faust
+
+**Hardware Platforms**: Zybo Z-20 (FPGA), Bela, Electrosmith Daisy
 
 **DSP Libraries**: NumPy, SciPy, librosa, PyTorch, ONNX, JUCE
-
-**Audio Platforms**: Bela, Electrosmith Daisy, Max/MSP, Pure Data, Supercollider
-
-**Hardware**: Eurorack modular, Expert Sleepers ES-9, MIDI controllers, Sequentix Cirklon
 
 **Signal Processing**: STFT, filter design (IIR/FIR), convolution, wavelet transforms, adaptive filters
 
 **Machine Learning**: CNNs, WaveNet, residual learning, transfer learning, PyTorch/TensorFlow
 
+**Synthesis Hardware**: Eurorack modular, Expert Sleepers ES-9, MIDI controllers, Sequentix Cirklon
+
 **Acoustics**: Room acoustics, spatial audio, psychoacoustics, HRTF measurement
 
-**Tools**: Git, Jupyter, Google Colab, LaTeX, Mermaid, Overleaf
+**Tools**: Git, Jupyter, Google Colab, LaTeX, Mermaid, Vivado, Quartus
 
 ---
 
