@@ -26,28 +26,6 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 ---
 
-## Featured Projects
-
-### Audio Signal Processing & Bioacoustics
-
-**[gaulosen-study](https://github.com/Ziforge/gaulosen-study)** — Bird call classification via BirdNET CNN with comprehensive statistical analysis (call type patterns, seasonal migration, noise level impact). 24 .md documentation files.
-
-**[bird-net-batch-analysis](https://github.com/Ziforge/bird-net-batch-analysis)** — BirdNET batch bioacoustic analysis pipeline. Automated bird species detection with YIN f0 estimation, LPC formant analysis, and Audacity integration for ornithological research.
-
-**[praven-pro](https://github.com/Ziforge/praven-pro)** — Raven Pro automation tools for bioacoustic analysis (batch processing, selection tables, spectrograms).
-
-**[CollabLibrosaParty](https://github.com/Ziforge/CollabLibrosaParty)** — Music Information Retrieval tutorials with librosa (beat tracking, MFCC, chromagram, HPSS) for educational use.
-
-### Physical Modeling Synthesis
-
-**[EKS](https://github.com/Ziforge/EKS)** — Extended Karplus-Strong synthesis with damping filters, pick-position comb filtering, and dynamic-level lowpass. Real-time Faust implementation.
-
-### Hardware Integration
-
-**[CirklonSynthDefs](https://github.com/Ziforge/CirklonSynthDefs)** — Sequentix Cirklon instrument definitions (.cki) for hardware synthesizers. Comprehensive MIDI CC mappings with Euclidean rhythm integration.
-
----
-
 ## Technical Skills
 
 **Programming Languages**: C++, Python, VHDL/Verilog (FPGA), MATLAB, Faust
