@@ -83,19 +83,6 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 ---
 
-## Documentation Philosophy
-
-All repositories feature:
-- LaTeX mathematical equations for technical rigor
-- Mermaid diagrams for system architecture visualization
-- Academic citations with DOIs and BibTeX entries
-- Professional scientific tone
-- Comprehensive installation and usage instructions
-
-**Portfolio Coverage**: 68% of repositories (17/25) have thesis-level documentation
-
----
-
 ## Collaboration Interests
 
 I'm open to collaborating on:
