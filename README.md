@@ -2,7 +2,7 @@
 
 **Audio DSP Engineer & Researcher**
 
-MSc Audio Technology | NTNU Acoustics | Electronic Music Production
+MSc Sound and Music Computing | Aalborg University (AAU) | Erasmus Exchange at NTNU Trondheim
 
 ---
 
@@ -46,18 +46,18 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 ---
 
-## Academic Work
+## Education
 
-**Master's Thesis**: Hybrid Virtual Analog Filter for EMS Synthi Emulation (2025)
-- Combined physics-based modeling with neural network residual correction
-- Achieved 92% indistinguishable from hardware in blind listening tests
-- Published on [Overleaf](https://www.overleaf.com/read/rhntdfgmgdzx#3c1775)
+**MSc Sound and Music Computing** — Aalborg University (AAU), Denmark
+- Erasmus exchange at NTNU Trondheim, Norway (extended for thesis)
+- Master's Thesis: Hybrid Virtual Analog Filter for EMS Synthi Emulation (2025)
+  - Combined physics-based modeling with neural network residual correction
+  - Achieved 92% indistinguishable from hardware in blind listening tests
+  - Published on [Overleaf](https://www.overleaf.com/read/rhntdfgmgdzx#3c1775)
 
-**NTNU TTT4295 Acoustics** — Music box analysis, fundamental frequency estimation, harmonic analysis
-
-**NTNU TTT4295 Assignment 2** — Binaural directional hearing via ITD/ILD modeling
-
-**Harman International Collaboration** — Spatial audio research (HRTF, perceptual attributes)
+**Research Collaborations**:
+- NTNU Acoustics coursework (TTT4181, TTT4295)
+- Harman International — Spatial audio research (HRTF, perceptual attributes)
 
 ---
 
