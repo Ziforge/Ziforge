@@ -1,8 +1,10 @@
-# George Redpath (Ziforge)
+# Seoirse Rippith (Ziforge)
 
-**Audio DSP Engineer & Researcher**
+**Sound and Music Computing**
 
 MSc Sound and Music Computing | Aalborg University (AAU) | Erasmus Exchange at NTNU Trondheim
+
+Hi this is my Sound and Music Computing github repo. You can check what I am doing IRL/instrument concepts [@seoirserippith](https://instagram.com/seoirserippith)
 
 ---
 
