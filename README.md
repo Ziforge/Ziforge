@@ -54,7 +54,6 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 - Erasmus exchange at NTNU Trondheim, Norway (extended for thesis)
 
 **Research Collaborations**:
-- NTNU Acoustics coursework (TTT4181, TTT4295)
 - Harman International — Spatial audio research (HRTF, perceptual attributes)
 
 ---
