@@ -55,6 +55,7 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 **Research Collaborations**:
 - Harman International — Spatial audio research (HRTF, perceptual attributes)
+- EMS Stockholm -EMS Synthi Neural net Study
 
 ---
 
