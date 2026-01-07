@@ -78,7 +78,7 @@ I'm open to collaborating on:
 
 **GitHub**: [@Ziforge](https://github.com/Ziforge)
 
-**Location**: Norway (NTNU Trondheim)
+**Location**: Copenhagen AAU
 
 ---
 
