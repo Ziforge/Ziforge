@@ -81,13 +81,3 @@ I'm open to collaborating on:
 **Location**: Copenhagen AAU
 
 ---
-
-## Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziforge&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziforge&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
----
-
-Built with precision for audio signal processing and electronic music research.
