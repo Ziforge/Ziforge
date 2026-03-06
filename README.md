@@ -40,7 +40,8 @@ I specialize in **digital signal processing for audio**, **physical modeling syn
 
 **Machine Learning**: CNNs, WaveNet, residual learning, transfer learning, PyTorch/TensorFlow
 
-**Synthesis Hardware**: Eurorack modular, Expert Sleepers ES-9, MIDI controllers, Sequentix Cirklon
+**Synthesis Hardware**: Eurorack modular, Expert Sleepers ES-9, MIDI controllers, Sequentix Cirklon 
+ https://modulargrid.net/e/racks/view/2843447
 
 **Acoustics**: Room acoustics, spatial audio, psychoacoustics, HRTF measurement
 
