@@ -53,7 +53,7 @@ I am mostly interesting in developing electro acoustic instruments and 4u.
 ## Education
 
 **MSc Sound and Music Computing** — Aalborg University (AAU), Denmark
-- Erasmus exchange at NTNU Trondheim, Norway (extended for thesis)
+- Erasmus exchange at NTNU Trondheim, Norway
 
 **Research Collaborations**:
 - Harman International — Spatial audio research (HRTF, perceptual attributes)
